@@ -5,24 +5,24 @@
 
 ### Table of Contents
 
-1. [Introduction](#Introduction)
-2. [Project Overview](#Overview)
-3. [Objective](#Objective)
-4. [File Description](#File)
-5. [General Steps of Analysis](#Step)
+1. [Introduction](#introduction)
+2. [Project Overview](#overview)
+3. [Objective](#objective)
+4. [File Description](#file)
+5. [General Steps of Analysis](#step)
 
-### Introduction <a name="Introduction"></a>
+### Introduction <a name="introduction"></a>
 The data and design for this project was provided by Arvato Financial Services. You will apply unsupervised learning techniques on demographic and spending data for a sample of German households. You will preprocess the data, apply dimensionality reduction techniques, and implement clustering algorithms to segment customers with the goal of optimizing customer outreach for a mail order company.
 
-### Project Overview <a name="Overview"></a>
+### Project Overview <a name="overview"></a>
 In this project, you will work with real-life data provided to us by our Bertelsmann partners AZ Direct and Arvato Finance Solution. The data here concerns a company that performs mail-order sales in Germany. Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign. Your job as a data scientist will be to use unsupervised learning techniques to organize the general population into clusters, then use those clusters to see which of them comprise the main user base for the company. Prior to applying the machine learning methods, you will also need to assess and clean the data in order to convert the data into a usable form.
 
-### Objective <a name="Objective"></a>
+### Objective <a name="objective"></a>
 The unsupervised learning branch of machine learning is key in the organization of large and complex datasets. While unsupervised learning lies in contrast to supervised learning in the fact that unsupervised learning lacks objective output classes or values, it can still be important in converting the data into a form that can be used in a supervised learning task. Dimensionality reduction techniques can help surface the main signals and associations in your data, providing supervised learning techniques a more focused set of features upon which to apply their work. Clustering techniques are useful for understanding how the data points themselves are organized. These clusters might themselves be a useful feature in a directed supervised learning task. This project will give you hands-on experience with a real-life task that makes use of these techniques, focusing on the unsupervised work that goes into understanding a dataset.
 
 In addition, the dataset presented in this project requires a number of assessment and cleaning steps before you can apply your machine learning methods. In workplace contexts, you will frequently need to work with data that is untidy or needs preprocessing before standard algorithms and models can be applied. The ability to perform data wrangling and the ability to make decisions on data that you work with are both valuable skills that you will practice in this project.
 
-### File Descriptions <a name="File"></a>
+### File Descriptions <a name="file"></a>
 
 Udacity_AZDIAS_Subset.csv: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
 Udacity_CUSTOMERS_Subset.csv: Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
@@ -30,7 +30,7 @@ Data_Dictionary.md: Information file about the features in the provided datasets
 AZDIAS_Feature_Summary.csv: Summary of feature attributes for demographic data.
 Identify_Customer_Segments.ipynb: Jupyter Notebook divided into sections and guidelines for completing the project. The notebook provides more details and tips than the outline given here.
 
-### General Steps of Analysis <a name="Step"></a>
+### General Steps of Analysis <a name="step"></a>
 **Step 1: Preprocessing** 
 When you start an analysis, you must first explore and understand the data that you are working with. In this (and the next) step of the project, you’ll be working with the general demographics data. As part of your investigation of dataset properties, you must attend to a few key points:
 
