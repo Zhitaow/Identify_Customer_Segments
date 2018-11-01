@@ -1,7 +1,7 @@
 # Udacity Data Science Nanodegree
 ## Creating Customer Segments
 ### Comments Received from Udacity Reviewer
- [https://review.udacity.com/#!/reviews/1539010](https://review.udacity.com/#!/reviews/1539010)
+ [https://review.udacity.com/#!/reviews/1411362](https://review.udacity.com/#!/reviews/1411362)
 
 ### Table of Contents
 
