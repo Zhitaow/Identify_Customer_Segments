@@ -24,15 +24,15 @@ In addition, the dataset presented in this project requires a number of assessme
 
 ### File Descriptions <a name="file"></a>
 
-**Udacity_AZDIAS_Subset.csv:** 
+####Udacity_AZDIAS_Subset.csv 
 Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
-**Udacity_CUSTOMERS_Subset.csv:** 
+####Udacity_CUSTOMERS_Subset.csv
 Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
-**Data_Dictionary.md:**
+####Data_Dictionary.md
 Information file about the features in the provided datasets.
-**AZDIAS_Feature_Summary.csv:**
+####AZDIAS_Feature_Summary.csv
 Summary of feature attributes for demographic data.
-**Identify_Customer_Segments.ipynb:**
+####Identify_Customer_Segments.ipynb
 Jupyter Notebook divided into sections and guidelines for completing the project. The notebook provides more details and tips than the outline given here.
 
 ### General Steps of Analysis <a name="step"></a>
